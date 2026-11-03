@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+youtube-transcript-api
+yt_dlp
+python-dotenv
+requests
+faiss-cpu
+langchain_huggingface
+langchain-google-genai
+fastapi
+uvicorn
+streamlit
+sentence-transformers
+ragas
