@@ -13,4 +13,4 @@ fastapi
 uvicorn
 streamlit
 sentence-transformers
-ragas
+langchain-groq
