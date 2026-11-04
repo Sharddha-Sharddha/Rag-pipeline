@@ -1,6 +1,6 @@
 # 📺 YouTube Transcript RAG Assistant 🤖
 
-🚀 [Live Demo](#) · 📖 [Documentation](#) · 🐛 [Report Bug](https://github.com/Sharddha-Sharddha/Rag-pipeline/issues)
+🚀 [Live Demo](http://localhost:8502/) · 📖 [Documentation](#) · 🐛 [Report Bug](https://github.com/Sharddha-Sharddha/Rag-pipeline/issues)
 
 An end-to-end Retrieval-Augmented Generation (RAG) application that extracts YouTube video and playlist transcripts, builds a local FAISS vector database, and answers user queries with high accuracy using Google's Gemini LLM.
 
